@@ -1,0 +1,9 @@
+typst>=0.14.0
+PyMuPDF>=1.25.0
+sympy>=1.13
+numpy>=1.26
+scipy>=1.13
+matplotlib>=3.8
+python-docx>=1.1
+python-pptx>=1.0
+# pywin32>=306  # Optional (Windows only): legacy .doc / .ppt COM extraction
